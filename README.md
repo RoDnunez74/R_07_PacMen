@@ -1,7 +1,7 @@
 # PacMen
 Rodrigo Núñez Portfolio @ MiT | xPRO
 
-<img src="./assets/img/readme_pacmen.png">
+<img src="./img/readme_pacmen.png">
 
 ### Descripción del proyecto.
 Este proyecto se crean y se envían pacman(s) a rebotar dentro de los confines de la ventana del navegador.
